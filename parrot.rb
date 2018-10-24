@@ -1,5 +1,5 @@
-def parrot(string)
-  puts string
+def parrot(phrase)
+  puts phrase
   string
 end
   
